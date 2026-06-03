@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "goblen_podsvetka",
+  "version": "1.0.0",
+  "name": "Goblen Podsvetka",
+  "loaderVersion": ">=0.15.0",
+  "entrypoints": {},
+  "mixins": [
+    "modid.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21"
+  }
+}
